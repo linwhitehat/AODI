@@ -34,6 +34,7 @@ crontab /root/rootcrons/rootcron
 ``` shell
 # Run directly
 python3 AODI.py
+
 # Run regularly
 vim /root/rootcrons/rootcron
 0 * */1 * * /usr/bin/python /root/rootcrons/reportip.py
@@ -48,4 +49,4 @@ crontab /root/rootcrons/rootcron
 非常欢迎你加入！你可以通过[提交issue](https://github.com/linwhitehat/AODI/issues/new)或pull请求参与贡献。
 
 ## 使用许可
-[MIT](LICENSE) © Richard Littauer
+[MIT](LICENSE) © linwhitehat
