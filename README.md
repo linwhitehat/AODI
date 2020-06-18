@@ -1,6 +1,6 @@
 # AODI·Auto-obtain-dynamic-IP·自动获取动态公网地址
 
-[![](https://img.shields.io/badge/Home-L1n-brightgreen.svg?logo=home-assistant)](https://github.com/linwhitehat/AODI) [![Python 3](https://img.shields.io/badge/python-3-informational.svg?logo=python "Python 3")](https://www.python.org/)
+[![](https://github.com/linwhitehat/AODI/blob/master/svg/Home-L1n-brightgreen.svg)](https://github.com/linwhitehat/AODI) [![Python 3](https://github.com/linwhitehat/AODI/blob/master/svg/python-3-informational.svg "Python 3")](https://www.python.org/)
 
 <p align="center">
   <a href="https://github.com/linwhitehat/AODI">中文</a> •
