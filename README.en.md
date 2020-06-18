@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/linwhitehat/AODI">中文</a> •
-  <a href="https://github.com/linwhitehat/AODI/README.en.md">English</a>
+  <a href="https://github.com/linwhitehat/AODI/blob/master/README.en.md">English</a>
 </p>
 
 ## Background
