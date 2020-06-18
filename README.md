@@ -1,6 +1,12 @@
-# AODI·Auto-obtain-dynamic-IP
+# AODI·Auto-obtain-dynamic-IP·自动获取动态公网地址
 
 [![](https://img.shields.io/badge/Home-L1n-brightgreen.svg?logo=home-assistant)](https://github.com/linwhitehat/AODI) [![Python 3](https://img.shields.io/badge/python-3.7-informational.svg?logo=python "Python 3")](https://www.python.org/)
+
+<p align="center">
+  <a href="https://github.com/linwhitehat/AODI">中文</a> •
+  <a href="https://github.com/linwhitehat/AODI/README.en.md">English</a>
+</p>
+
 
 ## 背景
 AODI是一个基于python语言开发的小工具，可用于定时更新动态变化的公网IP并推送到邮箱，为多种远程服务提供一定服务，我的应用场景比如远程控制连接，因为只需要知道当前设备的公网IP即可，减少使用DDNS部署，灵活轻便。
@@ -27,7 +33,7 @@ crontab /root/rootcrons/rootcron
 
 **注意**
 
-配置信息中设及个人敏感内容，**不要**在公开网络环境下留下任何个人的私密内容。
+配置信息中涉及个人敏感内容，**不要**在公开网络环境下留下任何个人的私密内容。
 
 ## 使用
 直接在命令行或IDE下运行或自定义定时使用：
@@ -43,7 +49,7 @@ crontab /root/rootcrons/rootcron
 ```
 
 ## 教程
-[AODI-GUIDE]()
+[AODI-GUIDE](https://linwhitehat.github.io/Blog/2020/06/18/%E5%AE%9A%E6%97%B6%E8%87%AA%E5%8A%A8%E8%8E%B7%E5%8F%96%E5%8A%A8%E6%80%81%E5%85%AC%E7%BD%91IP.html)
 
 ## 参与修订
 非常欢迎你加入！你可以通过[提交issue](https://github.com/linwhitehat/AODI/issues/new)或pull请求参与贡献。
