@@ -24,7 +24,10 @@ crontab /root/rootcrons/rootcron
 - [x] re
 
 工具基本配置包括`e-mail config`、`Router config`以及`public IP config`中的`headers`部分，在代码块位置均有注释。
-**注意**配置信息中设及个人敏感内容，**不要**在公开网络环境下留下任何个人的私密内容。
+
+**注意**
+
+配置信息中设及个人敏感内容，**不要**在公开网络环境下留下任何个人的私密内容。
 
 ## 使用
 直接在命令行或IDE下运行或自定义定时使用：
