@@ -15,10 +15,10 @@ import json
 import re
 
 # e-mail config
-SMTP_server = "" # mail server
-password = "" # mail login password
-sender = "" # mail send acount
-receiver = "" # mail recieve account
+SMTP_server = ""                 # mail server
+password = ""                    # mail login password
+sender = ""                      # mail send acount
+receiver = ""                    # mail recieve account
 subject = "[RPI]IP INFORM (FROM STMP)"
 content = "Your Public IP is : "
 
@@ -32,10 +32,10 @@ url_source = ["http://ipv4.icanhazip.com/",
               "https://httpbin.org/ip"]
 
 # Router config
-url_route = "" # url of gateway login
-url_wan = "" # url of infomation with WAN
+url_route = ""                   # url of gateway login
+url_wan = ""                     # url of infomation with WAN
 login_data = {'username':'',
-                'psd':''} # account and password for router login
+                'psd':''}        # account and password for router login
 
 class ObtainIP:
     def Get_ip(self):
