@@ -52,7 +52,7 @@ crontab /root/rootcrons/rootcron
 [AODI-GUIDE](https://linwhitehat.github.io/Blog/2020/06/18/%E5%AE%9A%E6%97%B6%E8%87%AA%E5%8A%A8%E8%8E%B7%E5%8F%96%E5%8A%A8%E6%80%81%E5%85%AC%E7%BD%91IP.html)
 
 ## 参与修订
-非常欢迎你加入！你可以通过[提交issue](https://github.com/linwhitehat/AODI/issues/new)或pull请求参与贡献。
+非常欢迎你的加入！你可以通过[提交issue](https://github.com/linwhitehat/AODI/issues/new)或pull请求参与贡献。
 
 ## 使用许可
 [MIT](LICENSE) © linwhitehat
